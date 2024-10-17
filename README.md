@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 💻 I’m a Full Stack Developer with over 2 years of experience in building and optimizing web applications using **React, Node.js, MongoDB**.
+- 💻 I’m a Full Stack Developer with over 2.8 years of experience in building and optimizing web applications using **React, Node.js, MongoDB**.
 - 🔧 I’ve developed scalable APIs and backend systems that handle high-concurrent traffic with advanced caching mechanisms.
 - 🔍 My work focuses on enhancing user experiences by integrating third-party APIs and improving system performance.
 - 🌱 I’m currently learning **advanced AWS services** and working on **microservices architecture**.
